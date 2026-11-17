@@ -1,52 +1,62 @@
-<!--## 🚀 Developer Portfolio
+<div align="center">
 
- ![Developer Banner](https://images.unsplash.com/photo-1581091012184-4f36d6c7c83f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VlfHx8fHx8fHwxNjk0NzA4NTQ4&ixlib=rb-4.0.3&q=80&w=1080) -->
+# Hi there, I'm Abdulhaleem Saheed-Yusuf (Yaleem-dev) 👋
 
----
+### Full-Stack Web & App Developer | AI & Robotics Student at University of Lagos (UNILAG)
 
-## 🛠️ Core Skills
+[![Portfolio](https://shields.io)](https://vercel.app)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![X](https://shields.io)](https://x.com)
 
-### Languages
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/></code>
-
-### Frameworks & Libraries
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/></code>
-
-### Tools & Platforms
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/></code>
+</div>
 
 ---
 
-## 🔍 Areas of Interest
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="Web Development"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="AI & ML"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" title="Mobile Development"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Cybersecurity"/></code>
+### 🚀 About Me
+
+I am Abdulhaleem Saheed-Yusuf (also known as Saheed-Yusuf Abdulhaleem and Yaleem), a Lagos-based software developer and an Artificial Intelligence and Robotics undergraduate at the University of Lagos (UNILAG).
+
+I build fast, mobile-first web portals, e-commerce platforms, and automated payment solutions that help businesses and institutions replace manual workflows with seamless digital experiences.
+
+- 🎓 Studying: B.Sc. in Artificial Intelligence & Robotics at University of Lagos (UNILAG)
+- 💻 Building: Full-stack web applications, mobile apps, and payment gateway integrations
+- 🌱 Exploring: Machine Learning, Intelligent Systems, and Robotics Software Engineering
+- 🌐 Portfolio: [yaleem-dev.vercel.app](https://vercel.app)
 
 ---
 
-## 📫 Connect with Me
-<code><a href="https://www.instagram.com/yaleem62/" style="padding: 100"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" title="Instagram"/></a></code>
-<code><a href="https://www.threads.com/@yaleem62"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40" title="Threads"/></a></code>
-<code><a href="https://github.com/Yaleem62"><img src="https://raw.githubusercontent.com/just-Muzz/just-Muzz/master/images/github.jpg" width="40" title="GitHub"/></a></code>
+### 🛠️ Core Tech Stack
 
+Languages  
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![Python](https://shields.io)
+
+Frameworks & Libraries  
+![React](https://shields.io)
+![Next.js](https://shields.io)
+![Node.js](https://shields.io)
+![Tailwind CSS](https://shields.io)
+
+Tools & Platforms  
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Vercel](https://shields.io)
 
 ---
 
-## 📊 GitHub Stats
+### 🌟 Featured Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaleem62&layout=compact&theme=radical)](https://github.com/Yaleem62)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaleem62&show_icons=true&theme=radical)](https://github.com/Yaleem62)
+- [UniFlow](https://vercel.app) — Rapid-deployment school payment portal built to automate student fee collection and replace manual bursary queues.
+- [E-TechCommerce](https://github.com) — Modern e-commerce storefront with responsive product catalogs and seamless checkout flows.
+- [Alhamdulillah Mosque Website](https://github.com) — Community web platform featuring prayer schedules, announcements, and event updates.
 
 ---
 
-*Made with ❤️ by a professional developer*
+### 📫 Connect With Me
+
+- Website: [yaleem-dev.vercel.app](https://vercel.app)
+- LinkedIn: [Abdulhaleem (Yaleem) Saheed-Yusuf](https://linkedin.com)
+- X (Twitter): [@yaleem_dev](https://x.com)
