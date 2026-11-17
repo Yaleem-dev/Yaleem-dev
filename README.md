@@ -57,6 +57,6 @@ Tools & Platforms
 
 ### 📫 Connect With Me
 
-- Website: [yaleem-dev.vercel.app](https://vercel.app)
-- LinkedIn: [Abdulhaleem (Yaleem) Saheed-Yusuf](https://linkedin.com)
-- X (Twitter): [@yaleem_dev](https://x.com)
+- Website: [yaleem-dev.vercel.app](https://yaleem-dev.vercel.app/)
+- LinkedIn: [Abdulhaleem (Yaleem) Saheed-Yusuf](https://www.linkedin.com/in/abdulhaleem-saheed-yusuf/)
+- X (Twitter): [@yaleem_dev](https://x.com/yaleem_dev)
